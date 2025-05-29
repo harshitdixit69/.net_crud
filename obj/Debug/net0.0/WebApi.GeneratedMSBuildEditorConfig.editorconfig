@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = WebApi
+build_property.ProjectDir = C:\Users\harsh\OneDrive\Documents\dotnet6-mysql-crud-application\dotnet-6-mysql-crud-application\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
